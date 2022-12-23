@@ -27,8 +27,10 @@ From the directory of this file:
 ### Docker
 
 1. Run
-   1. `docker build -t dash .`
-   2. `docker run -p 8000:8000 dash`
+```
+docker build -t dash .
+docker run -p 8000:8000 dash
+```
 2. Wait for Flask to say it's running
 3. Open your browser to `http://0.0.0.0:8000`
 
