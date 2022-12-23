@@ -1,5 +1,7 @@
 # A D3.js Dashboard: Visualizing and Exploring NYC Car Crash Statistics (or whatever you want)
 
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 This is an MVC-ish Flask app that uses D3 to render some graphs (correlation matrix, scatterplots, loadings, etc.), optimized for a 2256x1504 display. It can be run natively or in a Docker container.
 
 The sample data used was randomly sampled from [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95). This data, a Motor Vehicle Collisions crash table, contains details about recent crash events from all over NYC, where each row is such a crash, as reported by the police. The police report (MV104-AN) from which the data was gathered are required to be filled out if someone is injured or killed, or if there is at least $1,000 worth of damage. This data can be used to conduct detailed traffic safety analyses so as to find ways to prevent collisions or even advocate for public transit. If you would like to use different data, you can change the `DATA=` line in `.env` to point to a different CSV file.
