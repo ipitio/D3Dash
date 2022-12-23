@@ -1,0 +1,164 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * Copyright (C) 2022  ipitio                                              *
+ *                                                                             *
+ * This program is free software: you can redistribute it and/or modify        *
+ * it under the terms of the GNU Affero General Public License as published by *
+ * the Free Software Foundation, either version 3 of the License, or           *
+ * (at your option) any later version.                                         *
+ *                                                                             *
+ * This program is distributed in the hope that it will be useful,             *
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of              *
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the               *
+ * GNU Affero General Public License for more details.                         *
+ *                                                                             *
+ * You should have received a copy of the GNU Affero General Public License    *
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.      *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+* {
+  font-family: Sans-Serif;
+  /*text-transform: capitalize;*/
+}
+
+body {
+  margin: 0;
+  display: grid;
+  grid-template-rows: 1fr 8fr 1fr;
+  grid-template-columns: 1fr;
+  height: 80%;
+  grid-template-areas:
+    "header"
+    "plot"
+    "footer";
+}
+
+h1 {
+  text-align: center;
+}
+
+svg {
+  overflow: visible;
+  transition: 9s;
+}
+
+div {
+  vertical-align: middle;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+button {
+  background-color: white;
+  border: 0px solid white;
+  border-radius: 15px;
+  color: #000000;
+  cursor: pointer;
+  display: inline-flex;
+  font-size: 20px;
+  line-height: 20px;
+  width: 100%;
+  padding: 14px 18px;
+  text-decoration: none;
+  transition: .3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin: 5px;
+  justify-content: space-between;
+  z-index: 1500;
+}
+
+button:hover {
+  background-color: rgb(246, 246, 246);
+}
+
+button:active {
+  background-color: white;
+}
+
+header {
+  grid-area: header;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 0 8px 8px white inset;
+  z-index: 1000;
+  position: fixed;
+  width: 100%;
+  height: 8%;
+}
+
+plot {
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.pageRoot {
+  grid-area: plot;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 0 !important;
+}
+
+footer {
+  grid-area: footer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 0 8px 8px white inset;
+  z-index: 1000;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 8%;
+}
+
+box {
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  width: 340px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  border: 20px solid white;
+  background-color: white;
+  box-shadow: 0px 0px 30px rgba(150, 152, 154, 0.25);
+  transition: 0.3s;
+}
+
+box:focus-within {
+  box-shadow: 0px 0px 0px rgba(150, 152, 154, 0.25);
+}
+
+.svg {
+  box-shadow: 0px 0px 27px rgba(83, 84, 85, 0.1) !important;
+  border: 1px solid white;
+  border-radius: 25px;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+}
+
+.svg:hover {
+  box-shadow: 0 0 0px 0px white !important;
+  transition: 0.3s;
+}
+
+#blank {
+  border: none;
+}

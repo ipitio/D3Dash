@@ -1,0 +1,251 @@
+crash date,crash time,ZIPCODE,peds injured,cyclists injured,motorists injured,CRASH FACTOR,NUMERIC FACTOR,VEHICLE TYPE,NUMERIC TYPE
+12142021,2110,11207,0,0,0,Driver Inexperience,0,Sedan,0
+12142021,1458,10017,0,0,0,Passing Too Closely,1,Sedan,0
+12142021,1650,11413,0,0,0,Turning Improperly,2,Sedan,0
+12142021,2310,11434,0,0,2,Reaction to Uninvolved Vehicle,3,Sedan,0
+12142021,1758,11217,0,0,0,Passing Too Closely,1,Tanker,1
+12142021,2003,11226,0,0,4,Steering Failure,4,Sedan,0
+12112021,445,10001,0,0,0,Following Too Closely,5,Station WagonSport Utility Vehicle,2
+12142021,2013,11215,0,0,0,Passing Too Closely,1,Sedan,0
+12142021,1715,11211,0,0,1,Passing or Lane Usage Improper,6,Bus,3
+12142021,2249,10455,0,0,0,Driver InattentionDistraction,7,Taxi,4
+12122021,900,11385,0,0,0,Passing Too Closely,1,Station WagonSport Utility Vehicle,2
+7122022,1750,11225,0,0,0,Oversized Vehicle,8,Sedan,0
+4242022,2140,10452,0,0,0,Alcohol Involvement,9,Taxi,4
+4242022,1745,10466,0,0,0,Driver InattentionDistraction,7,Sedan,0
+4242022,0,10453,0,0,0,Driver InattentionDistraction,7,Sedan,0
+4242022,1535,10019,0,1,0,View ObstructedLimited,10,Station WagonSport Utility Vehicle,2
+4242022,420,11221,0,0,1,Traffic Control Disregarded,11,Station WagonSport Utility Vehicle,2
+4122022,1956,11203,1,0,0,Failure to Yield Right-of-Way,12,Station WagonSport Utility Vehicle,2
+4242022,2013,11419,0,0,0,Aggressive DrivingRoad Rage,13,Sedan,0
+4242022,1521,11101,0,0,1,Driver InattentionDistraction,7,Sedan,0
+4242022,2100,11106,0,0,1,Driver InattentionDistraction,7,Sedan,0
+4242022,2140,11418,0,0,0,Reaction to Uninvolved Vehicle,3,Ambulance,5
+4072022,1414,10017,0,0,0,Driver InattentionDistraction,7,Sedan,0
+12092021,2020,11223,0,1,0,Driver InattentionDistraction,7,Bike,6
+12092021,245,11422,0,0,1,Alcohol Involvement,9,Sedan,0
+12042021,1200,11213,0,0,0,Driver InattentionDistraction,7,Sedan,0
+12082021,1620,10128,0,0,0,Failure to Yield Right-of-Way,12,Taxi,4
+12092021,2315,11218,0,1,0,Driver InattentionDistraction,7,Sedan,0
+12012021,1434,11692,0,0,0,Unsafe Speed,14,Sedan,0
+12102021,700,11420,0,0,0,Passing or Lane Usage Improper,6,Sedan,0
+12082021,1930,10022,0,1,0,Following Too Closely,5,Station WagonSport Utility Vehicle,2
+12082021,1200,10011,0,1,0,Passing or Lane Usage Improper,6,Box Truck,7
+12082021,2237,10314,0,0,0,Pavement Slippery,15,Sedan,0
+12082021,44,11101,0,0,0,View ObstructedLimited,10,Sedan,0
+12102021,1100,10461,0,0,0,Oversized Vehicle,8,Station WagonSport Utility Vehicle,2
+12092021,2030,11004,0,0,0,Illnes,16,Sedan,0
+12092021,1013,11203,0,0,2,Traffic Control Disregarded,11,Sedan,0
+3262022,1400,10301,0,0,0,Driver InattentionDistraction,7,Sedan,0
+3262022,102,10025,0,0,1,Traffic Control Disregarded,11,Sedan,0
+3262022,1602,11373,0,0,1,Lost Consciousness,17,Station WagonSport Utility Vehicle,2
+3262022,1605,11411,0,0,1,Following Too Closely,5,Station WagonSport Utility Vehicle,2
+3212022,1205,10018,0,0,1,Following Too Closely,5,Motorcycle,8
+3262022,513,11418,0,0,0,Failure to Yield Right-of-Way,12,Station WagonSport Utility Vehicle,2
+3262022,1742,11234,0,0,0,Driver InattentionDistraction,7,Sedan,0
+3262022,1218,10466,0,0,2,Failure to Yield Right-of-Way,12,Station WagonSport Utility Vehicle,2
+3262022,1545,10472,0,0,2,Alcohol Involvement,9,Station WagonSport Utility Vehicle,2
+3262022,1755,11206,0,0,0,Driver InattentionDistraction,7,Sedan,0
+3262022,50,11236,0,0,0,Unsafe Speed,14,Sedan,0
+3262022,1405,11210,0,0,1,Unsafe Speed,14,Station WagonSport Utility Vehicle,2
+3102022,830,11238,0,0,4,Other Vehicular,18,Station WagonSport Utility Vehicle,2
+3262022,736,11209,0,0,0,Brakes Defective,19,Station WagonSport Utility Vehicle,2
+3262022,1150,11236,2,0,0,Failure to Yield Right-of-Way,12,Station WagonSport Utility Vehicle,2
+3262022,1742,11420,0,0,0,Passing Too Closely,1,Station WagonSport Utility Vehicle,2
+3262022,145,10065,0,0,0,Driver InattentionDistraction,7,Sedan,0
+3262022,1700,11249,0,0,0,Passing or Lane Usage Improper,6,Sedan,0
+2252022,1148,11432,0,0,0,Following Too Closely,5,E-Scooter,9
+3262022,821,10032,0,0,0,Driver InattentionDistraction,7,Box Truck,7
+3262022,1030,11220,0,0,0,Backing Unsafely,20,Station WagonSport Utility Vehicle,2
+3262022,2345,11104,0,0,1,Driver InattentionDistraction,7,Sedan,0
+3262022,1600,11207,0,0,1,Driver InattentionDistraction,7,Sedan,0
+3262022,2317,10002,0,0,1,Following Too Closely,5,Station WagonSport Utility Vehicle,2
+3262022,2125,11225,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+3262022,158,10472,0,0,0,Turning Improperly,2,Sedan,0
+3262022,2005,11207,0,0,0,Driver InattentionDistraction,7,Sedan,0
+3262022,1754,11226,0,0,4,Passing Too Closely,1,Sedan,0
+3262022,1635,11235,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+3262022,1950,10012,0,1,0,Passenger Distraction,21,E-Bike,10
+3262022,1319,11420,0,0,0,Failure to Yield Right-of-Way,12,Station WagonSport Utility Vehicle,2
+3262022,1010,11217,0,0,0,Passing or Lane Usage Improper,6,Station WagonSport Utility Vehicle,2
+3262022,1430,10305,0,0,0,Backing Unsafely,20,Sedan,0
+3262022,1900,11234,0,0,0,Backing Unsafely,20,Sedan,0
+3262022,1640,11217,0,0,2,Passing or Lane Usage Improper,6,Station WagonSport Utility Vehicle,2
+3242022,1805,11206,0,0,0,Driver InattentionDistraction,7,Sedan,0
+3202022,1034,10024,1,0,0,Backing Unsafely,20,Sedan,0
+3262022,1454,10001,0,0,0,Passing or Lane Usage Improper,6,Sedan,0
+3252022,635,10472,0,0,0,Following Too Closely,5,Station WagonSport Utility Vehicle,2
+3262022,502,11223,0,0,0,Fell Asleep,22,Station WagonSport Utility Vehicle,2
+3262022,2254,11217,0,0,0,Failure to Yield Right-of-Way,12,Taxi,4
+3262022,2100,11219,0,0,0,Driver InattentionDistraction,7,Sedan,0
+3262022,1729,11213,0,0,1,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+3262022,210,10018,0,1,0,Failure to Yield Right-of-Way,12,Bike,6
+3252022,0,10458,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+3262022,400,10468,0,0,0,Unsafe Speed,14,Station WagonSport Utility Vehicle,2
+3262022,434,11385,0,0,0,Unsafe Speed,14,Sedan,0
+3262022,1441,11228,0,0,0,Passing or Lane Usage Improper,6,Station WagonSport Utility Vehicle,2
+3262022,1320,10305,0,0,1,Traffic Control Disregarded,11,Station WagonSport Utility Vehicle,2
+3252022,2135,10035,0,0,0,Following Too Closely,5,Taxi,4
+3262022,1328,11206,0,0,1,Following Too Closely,5,Station WagonSport Utility Vehicle,2
+3262022,1912,11419,0,0,0,Unsafe Speed,14,Station WagonSport Utility Vehicle,2
+3262022,2129,11374,1,0,0,Unsafe Speed,14,Bike,6
+3252022,1321,10458,0,0,1,Driver InattentionDistraction,7,Sedan,0
+3222022,820,10467,0,1,0,Turning Improperly,2,Sedan,0
+3262022,2230,11238,0,0,0,Passing or Lane Usage Improper,6,Sedan,0
+3262022,1817,11422,0,0,0,Passing or Lane Usage Improper,6,Sedan,0
+3262022,323,10475,0,0,1,Following Too Closely,5,Box Truck,7
+3262022,145,11238,0,0,0,Driver InattentionDistraction,7,Taxi,4
+3262022,2300,11420,0,0,0,Alcohol Involvement,9,Station WagonSport Utility Vehicle,2
+3262022,1800,11207,0,0,0,Unsafe Speed,14,Sedan,0
+9112021,1201,10016,0,0,0,Passing or Lane Usage Improper,6,Station WagonSport Utility Vehicle,2
+12102021,430,11369,0,0,0,Driver InattentionDistraction,7,Sedan,0
+12102021,830,10457,0,0,0,Unsafe Lane Changing,23,Ambulance,5
+12102021,1215,11101,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+12082021,1438,11217,0,0,0,Passing Too Closely,1,Station WagonSport Utility Vehicle,2
+12102021,850,10455,0,0,1,Other Vehicular,18,Station WagonSport Utility Vehicle,2
+12102021,2120,10028,0,0,0,Unsafe Speed,14,Station WagonSport Utility Vehicle,2
+12092021,1700,10019,0,1,0,Following Too Closely,5,Taxi,4
+7012021,1745,11691,0,0,0,Passing or Lane Usage Improper,6,Station WagonSport Utility Vehicle,2
+7072021,1345,10014,0,0,0,Driver Inexperience,0,Station WagonSport Utility Vehicle,2
+9112021,255,11420,0,0,0,Alcohol Involvement,9,Sedan,0
+9032021,1714,11231,0,0,0,Passing Too Closely,1,Station WagonSport Utility Vehicle,2
+9112021,2134,10469,0,0,0,Turning Improperly,2,Sedan,0
+9112021,1130,11373,0,0,0,Passing or Lane Usage Improper,6,Sedan,0
+7082021,1717,10304,0,0,1,Lost Consciousness,17,Sedan,0
+9092021,1139,10306,0,0,1,Passing or Lane Usage Improper,6,Sedan,0
+9112021,1740,11228,0,0,0,Driver InattentionDistraction,7,Sedan,0
+9102021,1700,11372,0,0,0,Driver InattentionDistraction,7,Sedan,0
+7082021,1133,11236,0,0,0,Driver Inexperience,0,Sedan,0
+9112021,2223,10452,0,0,0,Following Too Closely,5,Station WagonSport Utility Vehicle,2
+9102021,1020,11419,0,0,2,Failure to Yield Right-of-Way,12,Sedan,0
+9112021,0,10474,0,0,0,Traffic Control Disregarded,11,Station WagonSport Utility Vehicle,2
+7062021,1501,10467,0,0,0,Other Vehicular,18,Station WagonSport Utility Vehicle,2
+9062021,1326,10314,0,0,0,Backing Unsafely,20,Sedan,0
+9112021,530,11101,0,0,1,Following Too Closely,5,Station WagonSport Utility Vehicle,2
+9112021,1255,10012,0,1,0,Passing or Lane Usage Improper,6,Station WagonSport Utility Vehicle,2
+9112021,1500,11203,0,0,0,Backing Unsafely,20,Sedan,0
+7082021,1530,11236,1,0,0,Driver InattentionDistraction,7,Sedan,0
+9072021,1735,11225,0,0,1,Driver InattentionDistraction,7,Flat Bed,11
+9112021,1908,11217,0,0,0,Following Too Closely,5,Taxi,4
+9112021,1025,10128,0,0,0,Backing Unsafely,20,Station WagonSport Utility Vehicle,2
+9112021,2348,11234,0,0,0,Unsafe Speed,14,Station WagonSport Utility Vehicle,2
+9112021,145,11356,0,0,0,Failure to Yield Right-of-Way,12,Station WagonSport Utility Vehicle,2
+7082021,1713,10469,0,0,0,Driver InattentionDistraction,7,Sedan,0
+9092021,1139,11416,0,0,0,Failure to Yield Right-of-Way,12,Sedan,0
+7062021,1900,10457,0,0,0,Driver InattentionDistraction,7,Sedan,0
+7062021,1800,11222,0,0,0,ObstructionDebris,24,Sedan,0
+7052021,1720,11208,0,0,0,Driver Inexperience,0,E-Bike,10
+7092021,651,11208,1,0,0,View ObstructedLimited,10,Sedan,0
+9112021,1838,11375,0,0,0,Passing or Lane Usage Improper,6,Sedan,0
+9112021,1230,10470,0,0,0,Aggressive DrivingRoad Rage,13,Sedan,0
+9102021,1210,11366,0,0,0,Backing Unsafely,20,Motorcycle,8
+9112021,1310,10035,0,0,0,Driver InattentionDistraction,7,Taxi,4
+7042021,58,11222,1,0,0,Driver InattentionDistraction,7,Sedan,0
+9112021,238,11420,1,0,0,Unsafe Speed,14,Station WagonSport Utility Vehicle,2
+7042021,2100,11222,0,1,0,Alcohol Involvement,9,Sedan,0
+9112021,1800,11212,0,0,1,Failure to Yield Right-of-Way,12,Sedan,0
+7022021,1645,11692,0,0,0,Unsafe Speed,14,Sedan,0
+7032021,1018,11691,0,0,1,Failure to Yield Right-of-Way,12,Station WagonSport Utility Vehicle,2
+9112021,1440,11231,0,0,2,Driver InattentionDistraction,7,Sedan,0
+9112021,1530,11223,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+9112021,1430,11421,0,0,0,Passing Too Closely,1,Station WagonSport Utility Vehicle,2
+7082021,600,10470,0,0,0,Turning Improperly,2,Sedan,0
+9112021,200,11208,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+9072021,803,10301,0,1,0,Driver InattentionDistraction,7,E-Bike,10
+9112021,1353,11373,0,0,0,Backing Unsafely,20,Sedan,0
+7082021,1540,10035,0,0,0,Driver Inexperience,0,Station WagonSport Utility Vehicle,2
+9072021,300,11372,0,0,1,Driver InattentionDistraction,7,Sedan,0
+7052021,600,11434,0,0,0,Other Vehicular,18,Sedan,0
+7072021,1804,10461,0,0,1,Following Too Closely,5,Station WagonSport Utility Vehicle,2
+9082021,1740,10013,0,0,0,Driver InattentionDistraction,7,Box Truck,7
+9112021,800,11204,0,0,0,Driver InattentionDistraction,7,Ambulance,5
+9082021,843,10031,1,0,0,Driver InattentionDistraction,7,Sedan,0
+7072021,1713,11433,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+9112021,1803,10457,0,0,2,Failure to Yield Right-of-Way,12,Station WagonSport Utility Vehicle,2
+9092021,1700,11416,0,0,0,Driver Inexperience,0,Sedan,0
+9082021,1813,10027,0,0,0,Driver Inexperience,0,Taxi,4
+9112021,2050,11434,0,0,0,Passing or Lane Usage Improper,6,Station WagonSport Utility Vehicle,2
+7052021,16,11691,0,0,0,Driver Inexperience,0,Sedan,0
+7092021,1038,11236,1,0,0,Tinted Windows,25,Sedan,0
+9112021,1745,11422,0,0,0,Driver InattentionDistraction,7,Sedan,0
+9112021,130,10453,0,0,0,Passing Too Closely,1,Dump,12
+7082021,2325,11208,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+9112021,120,10473,0,0,0,Aggressive DrivingRoad Rage,13,Sedan,0
+7082021,1755,10002,0,0,1,Driver InattentionDistraction,7,Motorcycle,8
+9112021,50,11207,0,0,0,Fell Asleep,22,Sedan,0
+9102021,1310,11212,0,0,0,Driver InattentionDistraction,7,Sedan,0
+7082021,1600,10458,0,0,0,Backing Unsafely,20,Station WagonSport Utility Vehicle,2
+7082021,2119,11416,0,0,1,Unsafe Speed,14,Sedan,0
+9112021,1501,11235,0,0,0,Driver InattentionDistraction,7,Sedan,0
+9102021,1900,10019,0,0,0,Driver InattentionDistraction,7,Sedan,0
+9102021,1055,10028,0,0,0,Backing Unsafely,20,Sedan,0
+9112021,139,10312,0,0,0,Unsafe Speed,14,Sedan,0
+9112021,1816,10460,0,0,0,Failure to Yield Right-of-Way,12,E-Bike,10
+9072021,1242,10026,0,0,0,Unsafe Speed,14,Sedan,0
+9102021,1739,10467,0,0,0,Unsafe Lane Changing,23,Station WagonSport Utility Vehicle,2
+6302021,1920,10452,0,0,0,Passing or Lane Usage Improper,6,Sedan,0
+9102021,2019,10021,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+7082021,1326,11222,0,1,0,PedestrianBicyclistOther Pedestrian ErrorConfusion,26,Pick-up Truck,13
+9112021,845,10038,0,0,0,Driver InattentionDistraction,7,Sedan,0
+9112021,1900,11203,0,0,0,Unsafe Speed,14,Station WagonSport Utility Vehicle,2
+7012021,810,11691,0,0,0,Passing Too Closely,1,Station WagonSport Utility Vehicle,2
+3252022,955,11101,0,0,0,Driver InattentionDistraction,7,Sedan,0
+9012021,1930,11434,1,0,0,Failure to Yield Right-of-Way,12,Sedan,0
+9102021,1520,10013,0,0,0,Driver InattentionDistraction,7,Sedan,0
+9112021,1434,10031,0,0,0,Driver Inexperience,0,Box Truck,7
+9102021,900,11433,0,0,0,Driver InattentionDistraction,7,Pick-up Truck,13
+9112021,100,11225,0,0,0,Driver InattentionDistraction,7,Pick-up Truck,13
+9112021,1125,10468,0,1,0,Driver InattentionDistraction,7,Sedan,0
+9112021,2130,11225,0,0,2,Driver Inexperience,0,Sedan,0
+7092021,1230,10467,0,1,0,Driver InattentionDistraction,7,E-Bike,10
+9112021,300,11207,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+9112021,2320,11430,0,0,1,Following Too Closely,5,Sedan,0
+7082021,1515,10039,0,0,0,Passing Too Closely,1,Sedan,0
+7092021,1222,11435,0,0,0,Failure to Yield Right-of-Way,12,Bus,3
+7092021,325,11434,0,0,0,Traffic Control Disregarded,11,Sedan,0
+9112021,205,10304,0,0,0,Animals Action,27,Station WagonSport Utility Vehicle,2
+7092021,0,11239,0,0,0,Passing Too Closely,1,Station WagonSport Utility Vehicle,2
+9112021,1530,10310,0,0,0,Driver InattentionDistraction,7,Sedan,0
+9112021,758,11367,0,0,0,Driver InattentionDistraction,7,Sedan,0
+9112021,1625,10022,0,0,0,Driver InattentionDistraction,7,Taxi,4
+3312021,2220,11234,0,0,1,Driver Inexperience,0,Sedan,0
+4062021,2258,10312,0,0,7,Failure to Yield Right-of-Way,12,Station WagonSport Utility Vehicle,2
+4152021,1330,10461,0,0,0,Following Too Closely,5,Sedan,0
+4142021,2143,11429,0,0,0,Turning Improperly,2,Station WagonSport Utility Vehicle,2
+4162021,1635,10475,0,0,2,Unsafe Speed,14,Station WagonSport Utility Vehicle,2
+4152021,1720,11236,0,0,1,Following Too Closely,5,Sedan,0
+4162021,2120,10025,0,0,0,Backing Unsafely,20,Sedan,0
+4162021,1720,10012,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+4152021,1430,11377,0,0,0,Driver InattentionDistraction,7,Sedan,0
+4162021,1815,11221,0,0,0,Driver InattentionDistraction,7,Sedan,0
+4142021,1300,11211,0,0,0,Passing or Lane Usage Improper,6,Pick-up Truck,13
+6302021,1147,11412,0,0,0,Passing Too Closely,1,Station WagonSport Utility Vehicle,2
+4142021,1516,11220,0,0,1,Passing Too Closely,1,Sedan,0
+4142021,2108,10451,0,0,0,Steering Failure,4,Station WagonSport Utility Vehicle,2
+4132021,2034,11213,1,0,0,Failure to Yield Right-of-Way,12,Sedan,0
+4152021,1216,10460,0,0,0,Traffic Control Disregarded,11,Station WagonSport Utility Vehicle,2
+4142021,2104,11206,0,0,1,Drugs (illegal),28,Station WagonSport Utility Vehicle,2
+4162021,1100,11368,0,1,0,Turning Improperly,2,Station WagonSport Utility Vehicle,2
+4162021,1700,11366,0,0,5,Traffic Control Disregarded,11,Sedan,0
+4162021,805,11102,0,0,1,Following Too Closely,5,Station WagonSport Utility Vehicle,2
+4142021,1630,10308,0,0,2,Failure to Yield Right-of-Way,12,Station WagonSport Utility Vehicle,2
+4152021,1637,11210,1,0,0,Driver InattentionDistraction,7,Sedan,0
+4152021,605,11237,0,0,1,Driver InattentionDistraction,7,Sedan,0
+4162021,840,11379,1,0,0,Failure to Yield Right-of-Way,12,Sedan,0
+4152021,2015,10461,0,0,0,Turning Improperly,2,Ambulance,5
+4132021,2300,11237,0,0,0,Driver InattentionDistraction,7,Sedan,0
+4162021,2055,10032,0,0,0,Driver InattentionDistraction,7,Sedan,0
+4162021,645,11221,0,0,0,Reaction to Uninvolved Vehicle,3,Station WagonSport Utility Vehicle,2
+4162021,1355,11385,0,0,0,Unsafe Speed,14,Station WagonSport Utility Vehicle,2
+4142021,0,11203,0,0,2,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
+4152021,2225,10036,1,0,0,Failure to Yield Right-of-Way,12,Sedan,0
+4162021,1,11228,0,0,0,Driver Inexperience,0,Station WagonSport Utility Vehicle,2
+4152021,2045,10065,0,0,0,Driver InattentionDistraction,7,Sedan,0
+4152021,700,11207,0,0,0,Driver InattentionDistraction,7,Sedan,0
+4152021,1045,11224,0,0,0,Following Too Closely,5,Station WagonSport Utility Vehicle,2
+4162021,1200,10306,0,0,0,Failure to Yield Right-of-Way,12,Sedan,0
+4162021,1505,11237,0,0,0,Failure to Yield Right-of-Way,12,Sedan,0
+4142021,933,10472,0,0,0,Failure to Yield Right-of-Way,12,Station WagonSport Utility Vehicle,2
+4162021,1145,11222,0,0,0,Passing Too Closely,1,Sedan,0
+4162021,1302,11385,0,0,0,Driver InattentionDistraction,7,Sedan,0
+4142021,0,11235,0,0,0,Driver InattentionDistraction,7,Station WagonSport Utility Vehicle,2
