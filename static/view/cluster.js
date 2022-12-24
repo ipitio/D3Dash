@@ -61,18 +61,3 @@ async function cluster(data, root, title, element, dim, embed = false) {
     if (localStorage.getItem('cluster-' + title))
         color(data, root, element, title);
 }
-
-let color = async (data, root, element, title) => {
-    d3.select("#cluster-button-" + title).select("rect")
-        .style("fill", "black");
-    d3.select("#cluster-button-" + title).select("text")
-        .style("fill", "white");
-
-    let points = await get("kmeans?method=elbow&data=" + JSON.stringify(data), 0);
-    let colors = d3.scaleOrdinal(d3.schemeCategory10);
-    root.selectAll(element)
-        .style(element.includes("path") ? "stroke" : "fill", function (d, i) {
-            if (points[i])
-                return colors(points[i][0]);
-        });
-}

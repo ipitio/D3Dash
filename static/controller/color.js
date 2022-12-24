@@ -15,32 +15,17 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.      *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-function load(data, root = d3.select('body'), page = location.search.split('page=').pop(), arg = location.search.split('arg=').pop(), dim = 500) {
-    root.selectAll('*').remove();
-    arg = arg.replace(/%20|\+/g, ' '); // replace %20 or + with space
-    header('NYC Crash Statistics', data, root);
-    root = root.append('plot').attr('class', 'pageRoot');
-    clearLevels(root);
-    switch (true) {
-        case /^bar.*/i.test(page):
-            return pageBar(data, root, arg, dim);
-        case /^hist.*/i.test(page):
-            return pageHist(data, root, arg, dim);
-        case /^corrmat.*/i.test(page):
-            return pageCorr(root, arg, dim);
-        case /^scatmat.*/i.test(page):
-            return pageScatMat(data, root, arg);
-        case /^pcd.*/i.test(page):
-            return pagePCD(data, root, arg, dim);
-        case /^pca.*/i.test(page):
-            return pagePCA(data, root, arg, dim);
-        case /^biplot.*/i.test(page):
-            return pageBiplot(data, root, dim);
-        case /^mds.*/i.test(page):
-            return pageMDS(data, root, arg.includes('?') || arg === '' ? 'euclidean' : arg, dim);
-        case /^map.*/i.test(page):
-            return pageMap(data, root, arg, dim);
-        default:
-            return pageIndex(data, root);
-    }
+async function color(data, root, element, title) {
+    d3.select("#cluster-button-" + title).select("rect")
+        .style("fill", "black");
+    d3.select("#cluster-button-" + title).select("text")
+        .style("fill", "white");
+
+    let points = await get("kmeans?method=elbow&data=" + JSON.stringify(data), 0);
+    let colors = d3.scaleOrdinal(d3.schemeCategory10);
+    root.selectAll(element)
+        .style(element.includes("path") ? "stroke" : "fill", function (d, i) {
+            if (points[i])
+                return colors(points[i][0]);
+        });
 }
