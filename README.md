@@ -28,7 +28,7 @@ From the directory of this file:
 
 1. Run
 
-```
+```bash
 docker build -t dash .
 docker run -p 8000:8000 dash
 ```
