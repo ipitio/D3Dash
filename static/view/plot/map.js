@@ -28,7 +28,7 @@ function proportionalCircle(originalData, root, dim, data, variable, embed = fal
         svg = svg.attr('transform', 'translate(90, 100)');
 
     let image = svg.append('svg:image')
-        .attr('xlink:href', 'static/png/nyc.png')
+        .attr('xlink:href', 'static/view/png/nyc.png')
         .attr('width', dim * 1.25)
         .attr('height', dim * 1.25)
         .attr('x', -95)
