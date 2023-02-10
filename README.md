@@ -1,8 +1,11 @@
 # A D3.js Dashboard: Visualizing and Exploring NYC Car Crash Statistics (or whatever you want)
 
+[Demo](https://www.youtube.com/watch?v=q3HdWpzs8ho&list=PLyCRt3MN8s8OsvZXhGInNIWLfK17rxtTf&index=2), courtesy of [Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/).
+
 ![Dashboard](static/view/png/dash.png)
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 This is an MVC-ish Flask app that uses D3 to render some graphs (correlation matrix, scatterplots, loadings, etc.), optimized for a 2256x1504 display. It can be run natively or in a Docker container.
 
